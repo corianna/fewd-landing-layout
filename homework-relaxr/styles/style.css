@@ -1,0 +1,157 @@
+	body {
+		background-color: black;
+	}
+
+	div {
+    	margin: auto;
+		width: 600px;
+		height: 100%;
+		color: white;
+	
+		}
+		
+
+	header {
+		background: url("http://i.imgur.com/FvPfosT.jpg");
+		height: 45%;
+		background-size:cover;
+		background-position: center;
+		margin: 0;
+	
+	}
+
+	.back-color {
+		background-color: #f0efef;
+		color: black;
+		height: 37%;
+	}
+
+	.back-image {
+		background: url(http://i.imgur.com/n0zupMb.jpg);
+		background-size: cover;
+		background-position: center;
+		height:20%;
+		
+	}
+
+	.back-sign-up {
+		background-color: #f9e42e;
+		height: 5%;
+		padding-top: 10px;
+		
+	}
+	.extrabold {
+		font-weight:800;
+		font-size: 24px;
+		margin-left: 35px;
+		padding-top: 15px;
+
+	}
+
+	.semibold {
+		font-family: 'tangerine', semibold;
+		font-size: 40px;
+		font-weight:400;
+		text-align: center;
+		margin-top: 45px;
+
+	}
+
+	.get-it-now {
+		border-radius: 3px;
+		background-color: #f9e42e;
+		width: 100px;
+		height: 20px;
+		margin-right: auto;
+		margin-left: auto;
+		margin-top: 50px;
+		
+		
+	}
+
+	.paragraph-1 {
+		font-size: 13px;
+		font-weight: 800;
+		color: black;
+		text-align: center;
+		padding-top: 2px
+		
+	}
+	.benefits {
+		color: #033048;
+		font-size: 20px;
+		font-weight: 550;
+
+	}
+
+	.description {
+		font-style: italic;
+		font-size: 14px;
+		color: grey;
+		padding-left: 50px;
+		padding-top: 9px;
+	}
+
+	ul {
+		line-height: 150%;
+
+	}
+
+	.limited-time {
+		font-family: 'josefin slab', semibold;
+		text-align: center;
+		font-size: 15px;
+		padding-top: 20px;
+
+	}
+
+	.name {
+		text-align: center;
+		font-family: bold;
+
+	}
+
+	.sign-up {
+		border-radius: 3px;
+		background-color: #033048;
+		width: 22%; 
+		height: 20px;
+		margin-right: auto;
+		margin-left: auto;
+		color: #f0efef;
+		text-align: center;
+		padding-top: 6px;
+		padding-bottom: auto;
+		font-size: 12px;
+		font-weight: bolder;
+
+	}
+
+
+	footer {
+		height: 20%;
+		background-color: #121212;
+		text-align: center;
+		padding-top: 20px;
+
+	}
+
+	.footer-text {
+		color: #f9e42e;
+		font-style: 800;
+		font-size: 24px;
+		padding-top: 1px;
+		margin-top: 10px;
+
+	}
+
+	.footer-copyright {
+		font-size: 9px;
+		padding-top: 20px;
+
+	}
+
+	.image {
+		padding-right: 25px;
+
+	}
